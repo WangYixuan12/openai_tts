@@ -13,3 +13,7 @@ mamba env create -f env.yml # Create the environment
 conda activate openai_tts # Activate the environment
 python app.py # Run the app
 ```
+
+## Acknowledgement
+
+This repo is adapted from [https://github.com/leokwsw/OpenAI-TTS-Gradio](https://github.com/leokwsw/OpenAI-TTS-Gradio)
