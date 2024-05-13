@@ -2,7 +2,7 @@
 
 ## Usage
 
-Set your OpenAI API key as an environment variable according to the tutorial [here](https://platform.openai.com/docs/quickstart).
+Get your OpenAI API key following the tutorial [here](https://platform.openai.com/docs/quickstart).
 
 ```bash
 mamba env create -f env.yml # Create the environment
