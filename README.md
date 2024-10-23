@@ -1,5 +1,7 @@
 # OpenAI TTS Gradio Interface
 
+[![Web Demo](https://img.shields.io/badge/🤗-HuggingFace%20Space-cyan.svg)](https://huggingface.co/spaces/yixuan1999/openai_tts)
+
 This is a simple Gradio Interface to use OpenAI Text-to-Speech API. The interface looks like this:
 
 ![Interface](interface.png)
